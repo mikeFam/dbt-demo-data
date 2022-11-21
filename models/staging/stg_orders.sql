@@ -1,5 +1,5 @@
 -- comment 1
-with 
+with  -- comment 4 from vscode
 
 source as (
 
