@@ -1,5 +1,5 @@
 -- comment 1
-with 
+with -- comment 3 from ide
 
 source as (
 
