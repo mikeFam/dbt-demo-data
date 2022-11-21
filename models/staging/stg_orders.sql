@@ -31,3 +31,5 @@ renamed as (
 )
 
 select * from renamed
+
+-- comment 2
